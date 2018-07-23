@@ -1,2 +1,2 @@
 # BuildBot
-FunFair's Build Discord Bot
+Betcommunity's Build Discord Bot
